@@ -1,4 +1,4 @@
-﻿<div style="text-align: center;">
+﻿<div align="center">
 <strong>Final Report</strong>
 
 CIEN E4011 Big Data in Transportation
