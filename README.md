@@ -78,8 +78,8 @@ This graph is a histogram showing pedestrian flows, representing the number of p
 
 
 
-Note: Question 10 is an open-ended question. The occupancy percentages in the pie chart reflect the frequency with which these responses were mentioned by the elderly pedestrians.
-![Example Image](image_set/figure1.png)<br>
+Note: Question 10 is an open-ended question. The occupancy percentages in the pie chart reflect the frequency with which these responses were mentioned by the elderly pedestrians.<br>
+![Example Image](image_set/figure8.png)<br>
 Figure 8. Pie Chart of Questionnaire Responses
 
 
