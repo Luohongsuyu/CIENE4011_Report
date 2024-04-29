@@ -1,4 +1,10 @@
-﻿<div align="center">
+﻿<div style="font-size: 24px; text-align: center; font-weight: bold;">
+<strong>Final Report</strong>
+
+</div>
+
+<div style="text-align: center;">
+
 CIEN E4011 Big Data in Transportation
 
 Instructor : Sharon Di
@@ -13,7 +19,6 @@ Guanting She
 
 Grant Zhou
 </div>
-
 # <a name="_jhz2955ts8g3"></a>**1.Problem Statement**
 
 This document constitutes the final report for the Big Data in Transportation course, centering on the analysis of traffic patterns at designated intersections and exploring safety concerns for elderly pedestrians through surveys. The subsequent sections provide a summary of responses and identified patterns. Our virtual analysis location is at the intersection of Amsterdam Avenue and West 110th Street. The location and bird's eye view of the intersection are depicted in Figures 1 and 2, respectively. Additionally, the questionnaire interviews will be conducted at the nearby subway station, specifically the southeast exit of the Cathedral Pathway station.
