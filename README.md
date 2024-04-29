@@ -25,7 +25,7 @@ Grant Zhou
 
 This document constitutes the final report for the Big Data in Transportation course, centering on the analysis of traffic patterns at designated intersections and exploring safety concerns for elderly pedestrians through surveys. The subsequent sections provide a summary of responses and identified patterns. Our virtual analysis location is at the intersection of Amsterdam Avenue and West 110th Street. The location and bird's eye view of the intersection are depicted in Figures 1 and 2, respectively. Additionally, the questionnaire interviews will be conducted at the nearby subway station, specifically the southeast exit of the Cathedral Pathway station.
 
-<img src="image_set/example.jpg" width="200" height="200">
+![Example Image](image_set/figure1.png)                   ![Example Image](image_set/figure2.png)
 `    `Figure 1. Intersection Location on Google              Figure 2. Bird View of Intersection
 
 `	`Our hyposisthes is that the current public transportation system and intersection design are not sufficiently accommodating for elderly individuals, particularly those who require walking aids. Additionally, we believe that the road planning at our experimental site is not entirely reasonable, with instruction signs that are not optimally visible and easy to understand. This investigation is divided into two main components: the intersection field experiment and the in-person questionnaire. In the field experiment, our goal is to collect data and identify both existing and potential traffic issues within the experimental field, including but not limited to road planning, implementation of instruction signs, and the availability of infrastructures.
