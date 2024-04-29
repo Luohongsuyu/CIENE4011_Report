@@ -1,6 +1,4 @@
-﻿<a name="_rpbbkvrfxk7l"></a><a name="_ts6a13b925ey"></a><a name="_bg5xyuugcorz"></a><a name="_59jqbxapokj5"></a><a name="_9nbuz7rn47n3"></a><a name="_99g7r5o1wcnk"></a><a name="_x2eimao118xf"></a><a name="_qxfxnroe0up0"></a>Final Report
-
-<a name="_993m1of4w9os"></a>
+﻿<div align="center">
 CIEN E4011 Big Data in Transportation
 
 Instructor : Sharon Di
@@ -14,6 +12,7 @@ Suyu Luohong
 Guanting She
 
 Grant Zhou
+</div>
 
 # <a name="_jhz2955ts8g3"></a>**1.Problem Statement**
 
