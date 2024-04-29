@@ -36,9 +36,9 @@ Figure 3. Traffic Design Sketch
 The ten questionnaire responses are attached in the Appendix 7.2. The survey was conducted in the 110 Subway, targeting individuals aged 65 and older. The questionnaire and its corresponding responses are summarized below in Figure 4. Sixteen groups of elderly participants were approached, with only ten agreeing to participate in the survey and providing meaningful responses. Visualization and analysis for both data are discussed in the next section.
 
 
-**3.0 Data Visualization and Interpretation**
+# <a name="_jhz2955ts8g3"></a>**3. Data Visualization and Interpretation**
 
-3\.1 Intersection Traffic Visualization and Analysis
+**3.1 Intersection Traffic Visualization and Analysis**
 ![Example Image](image_set/figure4.png)<br>
 Figure 4
 
@@ -62,8 +62,7 @@ This graph is a histogram showing pedestrian flows, representing the number of p
 
 
 
-
-# <a name="_2qbpulq6p3fb"></a>3.2 Questionnaire Visualization and Analysis
+**3.2 Questionnaire Visualization and Analysis**
 
 
 
@@ -84,7 +83,7 @@ Cleanliness emerged as a significant concern from the survey responses, with man
 Responses to the open-ended question revealed high expectations among elderly subway users for improved accessibility features, such as elevators and automatic doors. Some respondents also expressed a desire for more benches at subway stations. Additionally, there were concerns about the current subway information displays, including screens that show waiting times and exit notification signs, which are not sufficiently tailored to the needs of older users. The respondents suggested enhancements such as clearer audio announcements and larger, more readable fonts on screens. There is also a call for more explicit directional signage, especially for those who may have limited access to online support tools like Google Maps. This feedback underscores the need for subway systems to be more considerate of the challenges faced by elderly passengers.
 
 
-**4.0. Policy Making and Validation**
+# <a name="_jhz2955ts8g3"></a>**4. Policy Making and Validation**
 
 According to the data analyzed in previous sessions, we made following suggestions to traffic policies at the experimental area, including crosswalk and subway station. 
 
@@ -92,7 +91,7 @@ Regarding the experimental crosswalk (Amsterdam Avenue and West 110th Street), i
 
 Secondly regarding the subway station at 110th and Broadway, our suggestions for improvement would be adding more availability support. A large portion of the interviewed elders responded as “lack of support” and “unclear instructions signs”. In fact, this interaction is surrounded by three supermarkets, five restaurants, two mobile service centers, and two banks. It is apparently a popular place for people. As a contract, the subway station is rather small and insufficient on facilities, where there are no officers nor MTA staff at the station. We have witnessed an elderly lady unable to purchase a ticket with several attempts. Regarding to facilities required, multiple interviewees had responded that they want elevators or escalators. Apparently, walking up and down stairs are an important problem for elders, who usually spend few minutes just to walk down the stair at the station. Beside the mobility aiding facilities, the instructions at the station and within the subway are also described as “unclear” by large portion of the interviewees. Corresponding suggestions would be implementing more visible digital instructions signs, including facilities outside the corresponding exit etc., and also implementing more vocal instructions, such as more clear and audible broadcasting system. 
 
-**5.0 Conclusion and Potential Future Work**
+# <a name="_jhz2955ts8g3"></a>**5.0 Conclusion and Potential Future Work**
 
 The current survey and traffic analysis focused on the experiences of the elderly indicate a generally negative response. Public transportation, such as subways, reveals several design issues that are unsuitable for older individuals. There are significant complaints regarding basic accessibility services like elevators and automatic doors. Traffic itself appears to have minimal impact on the elderly, according to observations. However, to enhance the comprehensiveness and accuracy of our investigation, several steps are necessary.
 
@@ -104,7 +103,7 @@ First, we should extend the duration of live traffic monitoring to develop a mor
 
 
 
-**6.0 Contribution Table**
+# <a name="_jhz2955ts8g3"></a>**6.0 Contribution Table**
 
 |**Traffic Recording and Questionnaire** ||||||
 | :- | :- | :- | :- | :- | :- |
@@ -127,9 +126,9 @@ First, we should extend the duration of live traffic monitoring to develop a mor
 
 
 
-**7.0 Appendix** 
+# <a name="_jhz2955ts8g3"></a>**7.0 Appendix** 
 
-7\.1 Vehicle, Bike and Pedestrian Counting Tables
+**7.1 Vehicle, Bike and Pedestrian Counting Tables**
 
 Table 1. Vehicle Count via all Direction
 
