@@ -1,13 +1,7 @@
-﻿
+﻿<a name="_rpbbkvrfxk7l"></a><a name="_ts6a13b925ey"></a><a name="_bg5xyuugcorz"></a><a name="_59jqbxapokj5"></a><a name="_9nbuz7rn47n3"></a><a name="_99g7r5o1wcnk"></a><a name="_x2eimao118xf"></a><a name="_qxfxnroe0up0"></a>Final Report
 
-
-
-
-
-
-<a name="_rpbbkvrfxk7l"></a><a name="_ts6a13b925ey"></a><a name="_bg5xyuugcorz"></a><a name="_59jqbxapokj5"></a><a name="_9nbuz7rn47n3"></a><a name="_99g7r5o1wcnk"></a><a name="_x2eimao118xf"></a><a name="_qxfxnroe0up0"></a>Final Report
-
-<a name="_993m1of4w9os"></a>CIEN E4011 Big Data in Transportation
+<a name="_993m1of4w9os"></a>
+CIEN E4011 Big Data in Transportation
 
 Instructor : Sharon Di
 
@@ -92,11 +86,11 @@ Responses to the open-ended question revealed high expectations among elderly su
 
 **4.0. Policy Making and Validation**
 
-`	`According to the data analyzed in previous sessions, we made following suggestions to traffic policies at the experimental area, including crosswalk and subway station. 
+According to the data analyzed in previous sessions, we made following suggestions to traffic policies at the experimental area, including crosswalk and subway station. 
 
-`	`Regarding the experimental crosswalk (Amsterdam Avenue and West 110th Street), it is preferred to increase the capacity of North-south traffic flow. According to the data collected, it can be observed that there is a massive flow of traffic in the North-south direction, while there is only one-way two-lane road which directly caused traffic congestion at the crossroad during experimental time. As increasing vehicle lanes is not practical, we suggest there can be changes in traffic light intervals. Aside from the massive traffic flow in north-south direction, we can also observe small traffic flow in east-west direction. Therefore, we suggest increasing the time interval and/or green light frequency for north-south direction while shortening and decreasing the same for east-west direction. This should solve the traffic congestion in this specific field efficiently. 
+Regarding the experimental crosswalk (Amsterdam Avenue and West 110th Street), it is preferred to increase the capacity of North-south traffic flow. According to the data collected, it can be observed that there is a massive flow of traffic in the North-south direction, while there is only one-way two-lane road which directly caused traffic congestion at the crossroad during experimental time. As increasing vehicle lanes is not practical, we suggest there can be changes in traffic light intervals. Aside from the massive traffic flow in north-south direction, we can also observe small traffic flow in east-west direction. Therefore, we suggest increasing the time interval and/or green light frequency for north-south direction while shortening and decreasing the same for east-west direction. This should solve the traffic congestion in this specific field efficiently. 
 
-`	`Secondly regarding the subway station at 110th and Broadway, our suggestions for improvement would be adding more availability support. A large portion of the interviewed elders responded as “lack of support” and “unclear instructions signs”. In fact, this interaction is surrounded by three supermarkets, five restaurants, two mobile service centers, and two banks. It is apparently a popular place for people. As a contract, the subway station is rather small and insufficient on facilities, where there are no officers nor MTA staff at the station. We have witnessed an elderly lady unable to purchase a ticket with several attempts. Regarding to facilities required, multiple interviewees had responded that they want elevators or escalators. Apparently, walking up and down stairs are an important problem for elders, who usually spend few minutes just to walk down the stair at the station. Beside the mobility aiding facilities, the instructions at the station and within the subway are also described as “unclear” by large portion of the interviewees. Corresponding suggestions would be implementing more visible digital instructions signs, including facilities outside the corresponding exit etc., and also implementing more vocal instructions, such as more clear and audible broadcasting system. 
+Secondly regarding the subway station at 110th and Broadway, our suggestions for improvement would be adding more availability support. A large portion of the interviewed elders responded as “lack of support” and “unclear instructions signs”. In fact, this interaction is surrounded by three supermarkets, five restaurants, two mobile service centers, and two banks. It is apparently a popular place for people. As a contract, the subway station is rather small and insufficient on facilities, where there are no officers nor MTA staff at the station. We have witnessed an elderly lady unable to purchase a ticket with several attempts. Regarding to facilities required, multiple interviewees had responded that they want elevators or escalators. Apparently, walking up and down stairs are an important problem for elders, who usually spend few minutes just to walk down the stair at the station. Beside the mobility aiding facilities, the instructions at the station and within the subway are also described as “unclear” by large portion of the interviewees. Corresponding suggestions would be implementing more visible digital instructions signs, including facilities outside the corresponding exit etc., and also implementing more vocal instructions, such as more clear and audible broadcasting system. 
 
 **5.0 Conclusion and Potential Future Work**
 
