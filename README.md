@@ -80,7 +80,7 @@ The regression results indicate that while there are fluctuations in traffic vol
 
 Note: Question 10 is an open-ended question. The occupancy percentages in the pie chart reflect the frequency with which these responses were mentioned by the elderly pedestrians.<br>
 ![Example Image](image_set/figure10.png)<br>
-Figure 8. Pie Chart of Questionnaire Responses
+Figure 10. Pie Chart of Questionnaire Responses
 
 
 The primary focus of the questionnaire was on assessing the accessibility of subway services for elderly users. This included the ease of entering and exiting subway stations, the process of purchasing tickets, and the clarity of subway navigation. Based on the responses received, it appears that the current subway facilities do not meet expectations. For the elderly, accessibility and feasibility of public transport are crucial, particularly in New York City, where driving can be challenging due to heavy traffic and their health conditions. Furthermore, a significant issue identified is the lack of working elevators at many smaller stations, with half of the respondents expressing concerns about their ability to climb stairs without assistance. Additionally, some elderly individuals highlighted difficulties accessing the boarding area through standard turnstiles when using walking aids or mobility scooters. It was also noted that some emergency exits only permit exiting, which restricts entry for those needing easier access. 
