@@ -123,7 +123,7 @@ First, we should extend the duration of live traffic monitoring to develop a mor
 |Problem Statement|✔|✔||||
 |Data description|✔|✔||||
 |Data Visualization||✔|||✔|
-|Python Analysis|||||✔|
+|Python Analysis|||✔||✔|
 |Data Analysis|✔|✔|✔|✔|✔|
 |Policy making and Validation|✔|||||
 |Conclusion and Potential Future Work||✔||||
