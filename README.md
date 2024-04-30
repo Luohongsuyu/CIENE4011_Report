@@ -43,7 +43,8 @@ The ten questionnaire responses are attached in the Appendix 7.2. The survey was
 ![Example Image](image_set/figure4.png)<br>
 Figure 4
 
-Figure 4 shows the number of vehicles traversing the experimental field, revealing a discernible pattern where vehicle flow varies significantly between directions. It can be seen that generally fewer vehicles are coming from East and West than coming from South and North, especially it can be observed that there are a large number of vehicles coming from South. This phenomenon is expected due to the city planning of Manhattan Island, where the main traffic flow is across the south-north direction. Considering the time of the experiment, the reason for having extremely large traffic flow from south to north direction is the weekday traffic shoulder season, when most people come back from work at 5 p.m. since most workspaces and businesses are located in southern Manhattan. 
+Figure 4 shows the number of vehicles traversing the experimental field, revealing a discernible pattern where vehicle flow varies significantly between directions. The vertical axis ranges from 0 to 35, and each bar represents the number of pedestrians in a particular time period, and each bar represents the pedestrian counts for a specific time period, spanning the same time as the vehicular charts, from 5:00 p.m. to 6:00 p.m., in five-minute intervals. The color of the bars represents different time periods, starting from 5:00 to 5:05 (dark blue) and ending at 5:55 to 6:00 (dark green), for a total of 13 time periods. It can be seen that generally fewer vehicles are coming from East and West than coming from South and North, especially it can be observed that there are a large number of vehicles coming from South. This phenomenon is expected due to the city planning of Manhattan Island, where the main traffic flow is across the south-north direction. Considering the time of the experiment, the reason for having extremely large traffic flow from south to north direction is the weekday traffic shoulder season, when most people come back from work at 5 p.m. since most workspaces and businesses are located in southern Manhattan. 
+
 
 
 ![Example Image](image_set/figure5.png)<br>
@@ -59,21 +60,21 @@ Figure 6
 ![Example Image](image_set/figure7.png)<br>
 Figure 7
 
-This graph is a histogram showing pedestrian flows, representing the number of pedestrians in different directions. Similar to the previous Figure x. Vehicle Histogram, it includes the number of pedestrians traveling from the north, south, east, and west directions to the other directions, denoted by N-S, N-E, etc. The vertical axis ranges from 0 to 35, and each bar represents the number of pedestrians in a particular time period, and each bar represents the pedestrian counts for a specific time period, spanning the same time as the vehicular charts, from 5:00 a.m. to 6:00 a.m., in five-minute intervals. The color of the bars represents different time periods, starting from 5:00 to 5:05 (dark blue) and ending at 5:55 to 6:00 (dark green), for a total of 13 time periods. By comparing the heights of the bars for each time period, we can see that pedestrian traffic is particularly high in certain directions during the time periods 5:10-5:15 (magenta) and 5:50-5:55 (light purple). Among the possible factors for the higher pedestrian flows in N-S and S-N are the nearby campus dismissal and the predominantly residential neighborhoods surrounding the study area, which are related to the factor of people returning home from work and school; and the presence of the 110th Street subway station nearby, where the higher flows in E-W relative to W-E may be related to people's transportation trips to the 110th Street subway station. In summary, this map shows a positive correlation between the pedestrian flow map primarily with the evening peak after work and school and nearby subway traffic trips.
+The figure 6 and 7 are the histogram showing pedestrian flows, representing the number of pedestrians in different directions. Similar to the previous Figure 5 and 6. It includes the number of pedestrians traveling in different directions. By comparing the heights of the bars for each time period, we can see that pedestrian traffic is particularly high in certain directions during the time periods 5:10-5:15 p.m. (magenta) and 5:50-5:55 p.m. (light purple). Among the possible factors for the higher pedestrian flows in N-S and S-N are the nearby campus dismissal and the predominantly residential neighborhoods surrounding the study area, which are related to the factor of people returning home from work and school; and the presence of the 110th Street subway station nearby, where the higher flows in E-W relative to W-E may be related to people's transportation trips to the 110th Street subway station. In summary, this map shows a positive correlation between the pedestrian flow map primarily with the evening peak after work and school and nearby subway traffic trips. The flow of elderly pedestrians is generally similar to the overall trend of total pedestrian traffic. This means that at this intersection, there is not a significant difference in the age distribution of pedestrians, with middle-aged and elderly individuals constituting only about one-third of the total pedestrian volume.
+In addition to the qualitative analysis that can be directly observed from the histograms above, we also used Python code for further quantitative analysis. Initially, as can be roughly seen from the histograms, the four different modes of transportation demonstrated a high degree of similarity. Consequently, we compared the cosine similarity of the functions representing the change over time between each pair of transportation modes, and the results are shown in Figure 8.<br>
+![Example Image](image_set/figure8.png)<br>
+From the similarity matrix shown in Figure 8, it can be seen that the similarity between any two modes reaches above 0.94, with the highest cosine similarity reaching 0.98. We can confidently assert that all modes of transportation are consistent over time, demonstrating that temporal changes affect traffic flow at intersections irrespective of the mode of transportation, impacting each type equally.
+In addition to similarity comparison, we conducted a preliminary regression analysis to examine the specific impact of time on traffic flow, as shown in Figure 9.<br>
+![Example Image](image_set/figure9.png)<br>
+The regression results indicate that while there are fluctuations in traffic volume, the overall trend is an upward one. This is consistent with our analysis of the histogram results, confirming the impact of the 6 PM rush hour peak on the increase in traffic flow, which aligns with our expectations.
 
 
 
 **3.2 Questionnaire Visualization and Analysis**
 
 
-
-
-
-
-
-
 Note: Question 10 is an open-ended question. The occupancy percentages in the pie chart reflect the frequency with which these responses were mentioned by the elderly pedestrians.<br>
-![Example Image](image_set/figure8.png)<br>
+![Example Image](image_set/figure10.png)<br>
 Figure 8. Pie Chart of Questionnaire Responses
 
 
